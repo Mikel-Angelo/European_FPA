@@ -10,4 +10,4 @@
 - Hellenic Tax
 
 ![Screenshot 2024-09-04 151415](https://github.com/user-attachments/assets/9e7833d8-c1ea-4018-8b9a-0661c9e9cd29)
-- European cpuntries tax (bar - pie)
+- European countries tax (bar - pie)
